@@ -20,4 +20,4 @@ for line in fileIn:
         pass
 
 fileIn.close()
-fileOut.close()
+fileOut.close() 
