@@ -19,5 +19,5 @@ for line in fileIn:
     else:
         pass
 
-fileIn.close()
+fileIn.close() 
 fileOut.close() 
